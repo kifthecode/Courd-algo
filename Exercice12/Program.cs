@@ -26,7 +26,7 @@ class Program
         Console.Write("Minutes :");
         int minute = int.Parse(Console.ReadLine());
 
-        if (minute <= 59)
+        if (minute == 60)
         {
 
             minute = minute % 1;

@@ -1,2 +1,27 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿/*
+ Consigne
+Écrivez un algorithme qui après avoir demandé un numéro de jour, de mois et d'année à l'utilisateur, renvoie s'il s'agit ou non d'une date valide.
+
+Cet exercice est certes d'un manque d'originalité affligeant, mais après tout, en algorithmique comme ailleurs, 
+il faut connaître ses classiques ! Et quand on a fait cela une fois dans sa vie, on apprécie pleinement
+l'existence d'un type numérique « date » dans certains langages...).
+
+Il n'est sans doute pas inutile de rappeler rapidement que le mois de février compte 28 jours, sauf si l'année est bissextile, auquel cas il en compte 29. 
+L'année est bissextile si elle est divisible par quatre. Toutefois, 
+les années divisibles par 100 ne sont pas bissextiles, mais les années divisibles par 400 le sont. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ */
