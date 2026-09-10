@@ -1,2 +1,28 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿/*
+ Les boucle
+ 
+ */
+
+
+
+class Program
+{
+    static void Main()
+    {
+
+        int i = 0;
+
+        while (i < 10)
+
+        {
+
+            Console.WriteLine(i);
+            i++;
+
+
+        }
+
+
+    }
+
+}
