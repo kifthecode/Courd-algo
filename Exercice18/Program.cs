@@ -1,2 +1,21 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿class Program
+{
+    static void Main()
+    {
+
+        int i = -0;
+        do
+        {
+
+            Console.WriteLine(i);
+            i--;
+
+
+        } while (i >= -20);
+
+
+
+
+    }
+
+}
