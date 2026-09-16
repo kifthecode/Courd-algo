@@ -1,2 +1,28 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿class Program
+{
+    static void Main()
+    {
+
+        int Nombre = 12;
+        bool Fini = false;
+
+        do
+        {
+
+            Nombre = Nombre + 2;
+            if (Nombre % 4 == 0)
+            {
+                Fini = true;
+
+            }
+
+
+
+        } while (!Fini);
+        Console.WriteLine(Nombre);
+
+
+
+    }
+
+}
