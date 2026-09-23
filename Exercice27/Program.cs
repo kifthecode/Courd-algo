@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Personne p = new Personne("Laydi");
+
+
+public class Personne
+{
+
+    public string Nom;
+    public Personne(string nom)
+    {
+        Nom = nom;
+        Console.WriteLine($"{Nom} vient de naitre !");
+    }
+
+}
